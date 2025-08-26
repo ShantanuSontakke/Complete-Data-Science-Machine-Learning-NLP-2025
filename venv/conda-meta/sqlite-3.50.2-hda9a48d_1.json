@@ -1,0 +1,39 @@
+{
+  "build": "hda9a48d_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30133"
+  ],
+  "extracted_package_dir": "C:\\Users\\Shantanu\\anaconda3\\pkgs\\sqlite-3.50.2-hda9a48d_1",
+  "files": [
+    "Library/bin/sqlite3.dll",
+    "Library/bin/sqlite3.exe",
+    "Library/include/sqlite3.h",
+    "Library/include/sqlite3ext.h",
+    "Library/lib/sqlite3.lib"
+  ],
+  "fn": "sqlite-3.50.2-hda9a48d_1.conda",
+  "license": "blessing",
+  "link": {
+    "source": "C:\\Users\\Shantanu\\anaconda3\\pkgs\\sqlite-3.50.2-hda9a48d_1",
+    "type": 1
+  },
+  "md5": "9796bc1868a29e4ec53a054cc84870ba",
+  "name": "sqlite",
+  "package_tarball_full_path": "C:\\Users\\Shantanu\\anaconda3\\pkgs\\sqlite-3.50.2-hda9a48d_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "cc0f45b4cf796187b4119ec6ec629984a84939ac096100496b9d72a5be20af85",
+  "size": 1041352,
+  "subdir": "win-64",
+  "timestamp": 1752773667000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/sqlite-3.50.2-hda9a48d_1.conda",
+  "version": "3.50.2"
+}
