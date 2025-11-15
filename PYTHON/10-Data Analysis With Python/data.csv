@@ -1,0 +1,201 @@
+date,category,value,product,sales,region
+23-05-2024,Books,1161,Shirt,14978.77,West
+20-01-2023,Groceries,3345,Shoes,16773.21,West
+03-03-2023,Books,5666,Laptop,16987.12,Central
+08-07-2024,Groceries,7576,Car Toy,12895.42,West
+08-03-2024,Books,6794,Shirt,12184.28,East
+30-11-2023,Toys,9233,Shirt,9843.2,North
+11-02-2023,Clothing,3488,Laptop,18317.85,West
+13-05-2023,Clothing,7206,Car Toy,3980.75,Central
+18-09-2024,Books,9399,TV,15585.55,West
+19-12-2023,Groceries,6879,Shoes,5418.41,South
+30-11-2024,Books,2133,,2106.35,Central
+13-05-2024,Toys,9955,Shirt,8517.57,Central
+08-02-2023,Electronics,5113,Rice,2784.41,East
+07-06-2023,Electronics,6902,TV,18928.78,West
+02-06-2024,Toys,4220,Laptop,17360.88,South
+23-08-2023,Groceries,1773,Shoes,10375.73,South
+18-09-2024,Groceries,6740,Shoes,1060.79,Central
+01-05-2024,Clothing,616,Novel,4690.42,Central
+01-10-2023,Clothing,8569,Novel,3384.39,South
+18-03-2023,Books,6072,Laptop,17691.84,South
+05-10-2024,Toys,9493,Laptop,8087.97,West
+21-07-2024,Electronics,1564,Mobile,14185.83,South
+03-04-2024,Toys,6492,Rice,8665.44,West
+30-07-2023,Electronics,6408,Shoes,18634.28,South
+30-03-2024,Clothing,7184,Mobile,16574.74,North
+22-03-2023,Toys,1105,TV,7194.09,Central
+21-03-2023,Electronics,9551,Car Toy,17020.16,West
+31-05-2023,Groceries,2408,Laptop,18853.61,North
+15-04-2023,Books,7315,Car Toy,10354.25,Central
+28-07-2024,Electronics,7955,TV,1161.02,East
+22-09-2023,Toys,4966,Shoes,16678.8,Central
+30-08-2023,Clothing,5801,Laptop,19098.9,West
+14-09-2024,Toys,7380,TV,13815.24,North
+28-08-2024,Toys,1954,Shirt,15590.13,East
+27-02-2023,Clothing,1270,Laptop,16487.75,Central
+13-07-2023,Toys,4037,TV,9326.98,East
+16-08-2023,Books,2410,Rice,2826.4,Central
+05-04-2024,Groceries,1959,Rice,5978.9,West
+13-05-2023,Books,9024,Shoes,4512.81,East
+15-03-2023,Clothing,1822,Laptop,9442.6,South
+08-06-2023,Books,8832,TV,12554.25,West
+18-04-2024,Books,3832,Car Toy,12717.93,North
+12-07-2023,Toys,3784,Shirt,15215.98,West
+14-09-2024,Books,1883,Car Toy,4994.18,Central
+31-08-2023,Clothing,6098,Laptop,10974.94,Central
+22-01-2023,Books,9942,Mobile,9741.65,Central
+11-08-2024,Clothing,3752,Novel,16608.45,East
+25-03-2023,Toys,5703,Shirt,7709.56,West
+23-06-2024,Electronics,4829,Shirt,8289.16,East
+01-03-2023,Clothing,2479,Car Toy,8918.58,East
+17-02-2023,Toys,7986,Car Toy,1439.14,Central
+29-09-2023,Clothing,7099,TV,9183.2,South
+02-03-2024,Electronics,9524,Rice,10845.95,North
+07-11-2023,Electronics,4213,Rice,823.73,East
+27-03-2024,Clothing,7377,Shirt,10366.71,East
+18-02-2023,Toys,6081,Car Toy,13595.21,South
+12-12-2023,Books,1622,Shirt,8104.61,South
+20-09-2024,Groceries,8977,Shirt,18540.22,West
+10-11-2023,Electronics,840,Laptop,6440.02,Central
+27-01-2024,Electronics,8756,Rice,7318.97,East
+01-04-2024,Books,2163,TV,13225.67,South
+22-04-2024,Clothing,6428,TV,3555.69,North
+14-06-2024,Groceries,7438,Mobile,16066.91,East
+07-03-2023,Clothing,3981,Mobile,4892.71,West
+12-06-2023,Electronics,4545,Shoes,5780.25,East
+31-10-2024,Clothing,7962,Rice,16598.16,North
+31-05-2023,Electronics,9306,TV,7601.33,South
+08-01-2023,Electronics,7935,Rice,6772.89,South
+07-03-2024,Toys,3530,Novel,2223.14,East
+20-09-2023,Electronics,6684,Novel,16634.79,South
+11-01-2024,Toys,6043,Shirt,504.35,East
+16-12-2023,Toys,7520,Novel,17300.21,North
+23-02-2024,Electronics,4590,Mobile,17345.53,North
+28-10-2023,Electronics,9377,Car Toy,14426.89,Central
+05-04-2023,Books,2295,Shoes,8869.77,North
+22-11-2023,Books,8242,Laptop,2750.84,East
+09-03-2023,Groceries,3526,Car Toy,8283.19,Central
+20-07-2024,Books,1802,Rice,4660.39,East
+24-01-2024,Toys,7586,Laptop,3856.74,South
+16-07-2023,Clothing,8316,TV,8886.31,East
+16-03-2023,Groceries,5248,Novel,18220,West
+15-01-2023,Toys,448,Car Toy,7872.73,North
+18-01-2023,Toys,1659,TV,19146.46,South
+08-05-2023,Clothing,8603,Shoes,7625.17,East
+12-01-2023,Clothing,7398,Laptop,19798.75,East
+23-01-2024,Clothing,5498,Mobile,8515.15,Central
+07-12-2023,Clothing,5138,Car Toy,17622.07,North
+01-10-2023,Clothing,7375,Laptop,4667.73,North
+18-09-2023,Groceries,3381,Car Toy,14251.95,East
+22-09-2023,Books,2782,Shirt,19181.71,Central
+25-02-2023,Clothing,7990,Laptop,15027.12,East
+19-04-2024,Books,5578,Rice,13586.04,East
+03-01-2023,Clothing,8673,Shoes,11080.74,South
+15-05-2024,Groceries,2826,Shoes,2146,South
+10-02-2024,Books,6286,Shoes,536.48,South
+19-08-2024,Toys,4689,Rice,15457.44,North
+22-04-2024,Toys,4850,Mobile,12589.78,South
+04-12-2023,Toys,3048,TV,8529.49,North
+05-09-2023,Groceries,3596,Novel,2492.59,Central
+05-11-2023,Books,8352,Laptop,2944.46,South
+08-12-2023,Toys,4530,TV,13038.98,Central
+03-04-2023,Clothing,4593,Laptop,1302.06,Central
+22-08-2023,Toys,1392,Novel,1680.77,Central
+09-01-2023,Toys,2929,Mobile,17066.67,West
+20-10-2023,Electronics,3756,Laptop,11815.82,Central
+12-07-2024,Groceries,2663,Mobile,12811.23,South
+27-05-2024,Clothing,9983,Laptop,18504.76,South
+25-08-2023,Clothing,6491,TV,3932.48,East
+13-02-2023,Clothing,2759,Laptop,7944.41,South
+11-01-2024,Electronics,970,Laptop,6064.25,Central
+27-03-2023,Electronics,6223,Novel,19663.28,North
+24-07-2024,Toys,2670,Car Toy,13444.21,South
+07-04-2024,Toys,4153,Shoes,13354.37,North
+26-06-2024,Electronics,7520,Laptop,19823.66,North
+16-10-2023,Toys,8335,Shoes,17572.7,South
+03-01-2023,Groceries,6518,Mobile,9034.55,West
+28-02-2024,Books,9438,TV,1808.5,East
+23-07-2024,Clothing,9791,Shirt,2881.37,Central
+25-08-2024,Groceries,3103,Shirt,13486.75,North
+06-05-2023,Electronics,428,Shirt,7044.44,Central
+13-02-2023,Clothing,5714,TV,9354.06,Central
+31-03-2023,Books,6010,Car Toy,13287.8,South
+15-05-2023,Books,3507,Novel,2414.84,North
+25-07-2024,Electronics,7305,Novel,4530.11,South
+01-12-2023,Electronics,7313,Shirt,10261.94,Central
+06-01-2023,Toys,2586,TV,2549.82,Central
+20-05-2023,Toys,7127,Novel,11060.95,East
+04-02-2023,Books,7662,Car Toy,13156.3,East
+05-04-2024,Groceries,7186,TV,9736.2,South
+22-08-2024,Books,8400,Laptop,14347.92,West
+30-01-2024,Electronics,7594,Car Toy,4675.93,South
+17-01-2023,Books,4899,Shirt,7008.98,South
+07-09-2023,Electronics,7146,TV,2590.52,Central
+20-05-2024,Clothing,934,TV,15689.78,North
+15-04-2024,Clothing,7085,Mobile,18789.61,Central
+03-02-2024,Books,5352,Rice,13006.59,Central
+01-11-2024,Books,587,Novel,19899.14,Central
+01-06-2024,Toys,171,Mobile,19935.63,West
+14-10-2023,Groceries,4516,Laptop,19545.72,South
+02-05-2023,Toys,2922,Shoes,19589.59,East
+13-09-2024,Clothing,989,Rice,10739.76,Central
+05-03-2023,Clothing,4863,Shoes,7102.43,East
+28-05-2024,Electronics,808,Shirt,3180.48,North
+07-03-2024,Clothing,1613,Shoes,4366.91,North
+17-02-2024,Electronics,641,Shirt,18068.84,East
+28-03-2024,Toys,8332,TV,692.06,South
+25-10-2023,Books,3017,Novel,12393.59,North
+09-07-2024,Books,9452,Shoes,4375.9,South
+18-10-2024,Groceries,2852,TV,6520.67,North
+03-08-2023,Groceries,2635,Shirt,6357.99,Central
+22-09-2024,Toys,213,Rice,11137.08,South
+30-07-2024,Toys,5298,Rice,16241.9,North
+17-02-2024,Groceries,2143,Shirt,12934.39,North
+21-10-2023,Toys,6728,Novel,2499.81,North
+01-08-2023,Groceries,3446,Rice,14162.72,East
+19-09-2023,Toys,7339,Rice,4592.65,South
+24-08-2024,Electronics,7114,Shirt,567.29,East
+11-08-2024,Electronics,212,TV,14466.64,East
+18-07-2023,Books,5984,Shirt,10731.29,Central
+29-07-2023,Books,5149,Shirt,9172.31,North
+05-03-2024,Books,3445,Car Toy,11042.28,Central
+06-08-2024,Groceries,2889,Shirt,12619.56,East
+31-03-2024,Clothing,3279,Shirt,7573.4,South
+23-02-2024,Electronics,5788,Car Toy,19507.89,North
+02-01-2024,Books,8146,Shirt,13482.65,West
+29-03-2023,Groceries,6652,Car Toy,5974.52,East
+21-03-2023,Electronics,1163,Shirt,16736.18,Central
+03-05-2023,Toys,1457,Novel,19856.02,North
+27-06-2023,Books,6341,Rice,4842.86,East
+16-02-2023,Toys,4106,Mobile,8236.43,West
+04-07-2023,Electronics,227,Laptop,9809.4,West
+23-07-2023,Groceries,7427,Mobile,17206.83,East
+26-12-2023,Toys,2009,Laptop,1925.49,West
+30-06-2023,Clothing,189,Shoes,2957.38,North
+10-04-2024,Electronics,5827,Rice,19785.85,West
+24-02-2023,Toys,3971,Shirt,19660.13,Central
+22-11-2023,Toys,7723,Rice,5602.41,South
+08-08-2024,Books,4420,Laptop,4521.82,Central
+02-06-2024,Groceries,1147,Shirt,18080.21,West
+30-10-2023,Books,5660,Shoes,7785.3,Central
+29-01-2023,Electronics,5278,Mobile,15922.96,East
+05-02-2024,Electronics,9641,Mobile,14875.21,Central
+17-10-2024,Toys,9588,Car Toy,7861.63,South
+01-08-2023,Groceries,2780,Laptop,7787.36,West
+20-02-2024,Groceries,2742,Novel,10861.23,West
+12-06-2024,Toys,9005,Laptop,4702.6,West
+28-09-2023,Electronics,6743,Novel,8322.35,East
+23-12-2023,Groceries,8758,Shirt,13850.83,South
+05-05-2024,Groceries,9352,Rice,7762.34,North
+02-01-2024,Toys,6383,Shoes,16018.17,East
+11-11-2024,Electronics,3020,Car Toy,16619.9,Central
+13-07-2024,Groceries,1958,TV,15592.13,South
+11-07-2023,Toys,9147,Rice,4764.82,Central
+28-10-2023,Books,9695,Shirt,7537.54,East
+21-06-2023,Groceries,2095,Car Toy,4086.13,Central
+11-05-2023,Groceries,1969,TV,7184.54,Central
+02-10-2023,Clothing,1121,Laptop,9918.01,North
+08-04-2023,Books,9097,Laptop,12735.29,Central
+09-03-2023,Clothing,4945,Shoes,8625.64,East
+23-04-2023,Groceries,328,Mobile,10464.84,South
