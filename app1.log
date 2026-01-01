@@ -1,0 +1,4 @@
+2026-01-01 16:37:03 - ArithmeticApp - DEBUG - Adding 10 + 5, result: 15
+2026-01-01 16:37:03 - ArithmeticApp - DEBUG - Subtracting 15 - 10, result: 5
+2026-01-01 16:37:03 - ArithmeticApp - DEBUG - Multiplying 3 * 7, result: 21
+2026-01-01 16:37:03 - ArithmeticApp - ERROR - Division by zero is not allowed.
